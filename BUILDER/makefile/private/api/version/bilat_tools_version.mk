@@ -1,0 +1,1 @@
+/opt/cbi/make/008/private/api/version/bilat_tools_version.mk

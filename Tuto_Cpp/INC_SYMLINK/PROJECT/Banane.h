@@ -1,0 +1,1 @@
+/home/mse6/CUDA/toStudent/code/WCuda/Tuto_Cpp/src/cpp/core/11_advanced/a_echaufement/Banane.h

@@ -1,0 +1,1 @@
+/opt/cbi/make/008/private/script/java/install_workspace_java.sh

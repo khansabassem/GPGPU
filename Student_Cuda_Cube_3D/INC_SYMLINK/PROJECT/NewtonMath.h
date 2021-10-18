@@ -1,0 +1,1 @@
+/home/mse6/CUDA/toStudent/code/WCuda/Student_Cuda_Cube_3D/../Student_Cuda_Image/src/cpp/core/04_Newton/a_animable/device/math/NewtonMath.h

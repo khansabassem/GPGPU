@@ -1,0 +1,1 @@
+/home/mse6/CUDA/toStudent/code/WCuda/Student_Cuda_Newton_3D_Surface/src/core/newton3D_RGBA_uchar4/device/math/Newton3DMath.h

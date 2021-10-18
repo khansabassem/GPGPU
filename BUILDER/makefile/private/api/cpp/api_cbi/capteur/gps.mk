@@ -1,0 +1,1 @@
+/opt/cbi/make/008/private/api/cpp/api_cbi/capteur/gps.mk

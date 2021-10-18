@@ -1,0 +1,1 @@
+/home/mse6/CUDA/toStudent/code/WCuda/Tuto_3D_Cube_Cuda/src/cpp/core/scene/SceneCubeCreator.h

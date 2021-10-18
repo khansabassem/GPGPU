@@ -1,0 +1,1 @@
+/home/mse6/CUDA/toStudent/code/WCuda/Tuto_3D_Surface_Cuda/src/core/damier_RGBA_uchar4/device/math/Damier3DMath_RGBA.h

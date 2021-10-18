@@ -1,0 +1,1 @@
+/home/mse6/CUDA/toStudent/code/WCuda/Student_Cuda_Image/src/cpp/core/05_Project_HeatTransfer/provider/HeatTransferMemoryType.h
